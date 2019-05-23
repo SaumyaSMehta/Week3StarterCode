@@ -12,6 +12,7 @@ package week3startercode;
 public class Student {
     private String FirstName;
     private int ID;
+    private PartTime;
 
     /**
      * @return the FirstName
